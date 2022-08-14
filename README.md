@@ -1,7 +1,7 @@
 # Hello this is bats
 
-# About me 
-## I am a 18 year old computer science student from Germany, interested in back-end and front-end development. For more information feel free to visit my homepage https://bats.li
+## About me 
+### I am a 18 year old computer science student from Germany, interested in back-end and front-end development. For more information feel free to visit my homepage https://bats.li
  
 <!--
 **batscs/batscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
