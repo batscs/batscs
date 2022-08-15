@@ -22,7 +22,7 @@
 
 ## Workstations
 
-| Specification | Laptop (Mobile) | Computer (Stationary) |
+| Specification | MacBook Pro 14" 2021 | Computer (Stationary) |
 | ------------- | --------------- | --------------------- |
 | OS | macOS | win10 |
 | CPU | Apple M1 Pro (8 Core) | AMD Ryzen 7 5800x (8/16 Core) |
