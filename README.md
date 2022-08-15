@@ -1,7 +1,7 @@
 # Hello this is bats
 
 ## About me 
-### I am a 18 year old computer science student from Germany, interested in back-end and front-end development. For more information feel free to visit my homepage https://bats.li
+### I am a 18 year old Computer Science Student from Germany, interested in software engineering and webdevelopment. For more information feel free to visit my homepage https://bats.li
 
 ## Languages
 #### Experienced
@@ -29,18 +29,4 @@
 - CPU: AMD Ryzen 7 5800X
 - GPU: NVIDIA RTX 2070 8GB
 - RAM: 32GB (4x DDR4 8GB @ 3200mhz)
- 
-<!--
-**batscs/batscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
