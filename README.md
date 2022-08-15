@@ -1,14 +1,16 @@
-# Hello this is bats
+# bats.cfg
 
 ## About me 
-### I am a 18 year old Computer Science Student from Germany, interested in software engineering and webdevelopment. For more information feel free to visit my homepage https://bats.li
+### Hello this is bats. I am a 18 year old Computer Science Student from Germany with great interested in software engineering and webdevelopment. For more information feel free to visit my homepage https://bats.li
 
-## Languages
-#### Experienced
+## Languages & Other Technologies
+### Experienced
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Learning
+### Learning
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  
@@ -18,15 +20,11 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batscs)
 
 ## Workstations
-####  Apple MacBook Pro 14" 2021
-![MBP14](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-- CPU: Apple M1 Pro
-- GPU: Apple M1 Pro
-- RAM: 16GB (2x 8GB)
 
-#### Custom Build
-![Win10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-- CPU: AMD Ryzen 7 5800X
-- GPU: NVIDIA RTX 2070 8GB
-- RAM: 32GB (4x DDR4 8GB @ 3200mhz)
+| Specification | Laptop (Mobile) | Computer (Stationary) |
+| ------------- | --------------- | --------------------- |
+| OS | macOS | win10 |
+| CPU | Apple M1 Pro (8 Core) | AMD Ryzen 7 5800x (8/16 Core) |
+| GPU | Apple M1 Pro | NVIDIA RTX 2070 8GB |
+| RAM | 2x 8 GB | 4x 8 GB |
 
