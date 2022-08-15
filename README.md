@@ -1,7 +1,8 @@
 # bats.cfg
 
 ## About me 
-### Hello this is bats. I am a 18 year old Computer Science Student from Germany with great interested in software engineering and webdevelopment. For more information feel free to visit my homepage https://bats.li
+#### Hello this is bats. I am a 18 year old Computer Science Student from Germany with great interested in software engineering and webdevelopment. 
+#### My [personal Website](https://bats.li)
 
 ## Languages & Other Technologies
 ### Experienced
@@ -27,4 +28,5 @@
 | CPU | Apple M1 Pro (8 Core) | AMD Ryzen 7 5800x (8/16 Core) |
 | GPU | Apple M1 Pro | NVIDIA RTX 2070 8GB |
 | RAM | 2x 8 GB | 4x 8 GB |
+
 
